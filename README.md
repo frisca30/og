@@ -31,8 +31,8 @@ Ensure you have **Python 3.8+** and **pip** installed.
 
 - Clone the repo
 ```bash
-git clone https://github.com/rpchubs/0G-Faucet.git
-cd 0G-Faucet
+git clone https://github.com/frisca30/0g.git
+cd 0g
 ```
 
 - Install required libraries
@@ -46,8 +46,8 @@ pip install -r requirements.txt
 
 - Clone the repo
 ```powershell
-git clone https://github.com/rpchubs/0G-Faucet.git
-cd 0G-Faucet
+git clone https://github.com/frisca30/0g.git
+cd 0g
 ```
 
 - Install required libraries
